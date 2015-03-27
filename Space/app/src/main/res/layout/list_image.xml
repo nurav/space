@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@drawable/rouned_corner_shadow">
+
+        <ImageView
+            android:id="@+id/imagedeveloper"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:adjustViewBounds="true"
+            android:src="@drawable/aditya"
+            android:scaleType="fitXY"
+            android:padding="15dp"
+            android:layout_marginTop="5dp"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.5"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/name"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Event Name"
+                android:textStyle="bold"
+                android:typeface="serif"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:paddingTop="15dp" />
+
+            <TextView
+                android:id="@+id/development"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Category"
+                android:textStyle="normal"
+                android:typeface="serif"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</LinearLayout>

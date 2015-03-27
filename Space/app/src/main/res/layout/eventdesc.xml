@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#EEE"
+    >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginBottom="10dp">
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:layout_weight="4"
+            android:src="@drawable/high_octane"
+            android:scaleType="fitXY"
+            android:padding="15dp"
+            android:layout_marginTop="5dp"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="3"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Event Name"
+                android:textStyle="bold"
+                android:typeface="serif"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:paddingTop="15dp" />
+
+            <TextView
+                android:id="@+id/event_category_text"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Category"
+                android:typeface="serif"
+                android:textColor="#000"
+                android:textSize="15sp"
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        </LinearLayout>
+
+
+        <com.spitspce.space.SquareImageView
+            android:id="@+id/setfav"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="15dp"
+            android:layout_weight="0.6"
+            android:src="@drawable/fav"
+            android:layout_gravity="center_vertical" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_weight="5"
+        >
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="@drawable/card"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginBottom="7dp">
+
+            <TextView
+                android:id="@+id/event_time_text"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Time"
+                android:typeface="serif"
+
+                android:paddingLeft="10dp"
+                android:paddingTop="6dp"
+                android:gravity="center_vertical"
+                android:paddingBottom="3dp"
+                android:textColor="#212121" />
+
+            <TextView
+                android:id="@+id/event_venue_text"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Venue"
+                android:typeface="serif"
+
+                android:paddingLeft="10dp"
+                android:paddingTop="3dp"
+                android:gravity="center_vertical"
+                android:paddingBottom="3dp"
+                android:textColor="#212121" />
+
+            <TextView
+                android:id="@+id/event_date_text"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Date"
+                android:typeface="serif"
+
+                android:paddingLeft="10dp"
+                android:paddingTop="3dp"
+                android:paddingBottom="6dp"
+                android:gravity="center_vertical"
+                android:textColor="#212121" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp">
+
+            <TextView
+                android:id="@+id/event_intro_text"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="sdkjf adfg adf  adfg adgf "
+                android:gravity="top"
+                android:typeface="serif"
+
+                android:background="@drawable/card"
+                android:padding="10dp"
+                android:layout_marginBottom="7dp"
+                android:textColor="#212121" />
+
+            <TextView
+                android:id="@+id/event_rules_text"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="sdkjf adfg adf  adfg adgf "
+                android:gravity="top"
+                android:typeface="serif"
+
+                android:background="@drawable/card"
+                android:padding="10dp"
+                android:layout_marginBottom="7dp"
+                android:textColor="#212121" />
+
+            <TextView
+                android:id="@+id/event_prizes_text"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="@string/loren_ipsum"
+                android:gravity="top"
+                android:typeface="serif"
+
+                android:background="@drawable/card"
+                android:padding="10dp"
+                android:layout_marginBottom="7dp"
+                android:textColor="#212121" />
+
+            <TextView
+                android:id="@+id/event_email_text"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="@string/loren_ipsum"
+                android:gravity="top"
+                android:typeface="serif"
+
+                android:background="@drawable/card"
+                android:padding="10dp"
+                android:layout_marginBottom="7dp"
+                android:textColor="#212121" />
+
+            <TextView
+                android:id="@+id/event_contact_text"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="@string/loren_ipsum"
+                android:gravity="top"
+                android:typeface="serif"
+
+                android:background="@drawable/card"
+                android:padding="10dp"
+                android:layout_marginBottom="7dp"
+                android:textColor="#212121" />
+
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

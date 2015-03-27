@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Widget" />
+    
+    <style name="Widget.ActionBar" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse" />
+    
+    <style name="Widget.Light" />
+    
+    <style name="Widget.Light.ActionBar" parent="@android:style/Widget.Holo.Light.ActionBar.Solid" />
+
+    <style name="Widget.ActionBar.Transparent">
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+
+    <style name="Widget.Light.ActionBar.Transparent">
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+
+    <style name="Theme.AppCompat.Space" parent="Theme.AppCompat.Light.DarkActionBar">
+    </style>
+
+
+    <style name="Theme.MyTheme" parent="@style/Theme.AppCompat.Space">
+
+        <!-- Set AppCompat’s color theming attrs -->
+      <!--  <item name="colorPrimary">@color/my_awesome_red</item>
+      -->
+    <item name="colorPrimaryDark">@android:color/transparent</item>
+
+    <!-- The rest of your attributes -->
+    </style>
+
+
+    <style name="HeaderText" parent="@android:style/Widget.TextView">
+        <item name="android:textStyle">bold</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_marginTop">8dip</item>
+    </style>
+    
+</resources>

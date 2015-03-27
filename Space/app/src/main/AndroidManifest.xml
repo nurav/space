@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.spitspce.space"
+    android:installLocation="preferExternal">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:largeHeap="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainTileActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Space" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ActionDrawerActivity"
+            android:label="VerticalTabs"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Space" >
+            >
+        </activity>
+        <activity
+            android:name=".EventDetailActivity"
+            android:label="EventDetail"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.TranslucentActionBar" >
+            >
+        </activity>
+        <activity
+            android:name=".VideoStreamActivity"
+            android:label="Space Official Video"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Space" >
+            >
+        </activity>
+        <activity
+            android:name=".DevelopersActivity"
+            android:label="App Team"
+            android:theme="@style/AppTheme.TranslucentActionBar" >
+        </activity>
+        <activity
+            android:name=".ParallaxActivity"
+            android:label="Fest Highlights"
+            android:theme="@style/Theme.AppCompat.Space">
+        </activity>
+    </application>
+
+</manifest>

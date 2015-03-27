@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFF">
+
+    <com.nirhart.parallaxscroll.views.ParallaxListView xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        app:parallax_factor="2"
+        app:circular_parallax="true"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/listView"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="0dp"
+        android:paddingLeft="5dp"
+        android:transcriptMode="alwaysScroll"
+        android:windowSoftInputMode="adjustPan"
+        android:layout_marginTop="-5dp"/>
+
+    <TextView
+        android:id="@+id/addfav"
+        android:layout_gravity="center"
+        android:layout_margin="20dp"
+        android:typeface="serif"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+
+
+</RelativeLayout>

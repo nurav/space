@@ -1,0 +1,40 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#DDD">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+    <include
+        android:id="@+id/one"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/list_image"/>
+    <include
+        android:id="@+id/two"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/list_image"/>
+    <include
+        android:id="@+id/three"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/list_image"/>
+    <include
+        android:id="@+id/four"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/list_image"/>
+    <include
+        android:id="@+id/five"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/list_image"/>
+
+    </LinearLayout>
+</LinearLayout>

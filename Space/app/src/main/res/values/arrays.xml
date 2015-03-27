@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="event_email_id">
+        <item>jainv010@gmail.com</item>
+        <item>amazingroller@gmail.com</item>
+        <item>space.panel.debate@gmail.com</item>
+        <item>tanvijadhav111@gmail.com</item>
+        <item>darshpandya123@gmail.com </item>
+        <item>rohitunleash@gmail.com</item>
+        <item>nidheesh10samant@gmail.com</item>
+        <item>saumyas_24@yahoo.com</item>
+        <item>darshpandya123@gmail.com </item>
+        <item>ksnagvekar@gmail.com</item>
+        <item>spitmun@gmail.com</item>
+        <item>highoctane2k15@gmail.com</item>
+        <item>roongtarohit@hotmail.com</item>
+        <item>kt.katnaturk@gmail.com </item>
+        <item>Instrumentalwar@gmail.com</item>
+        <item>sanilvartak95@gmail.com</item>
+        <item>nayanashinde9@gmail.com</item>
+        <item>mmoku13@gmail.com</item>
+        <item>jainprince96@gmail.com</item>
+        <item>deepali.b.dwivedi@gmail.com</item>
+        <item>a4aditi.nhavkar@gmail.com</item>
+        <item>yashkothari777@gmail.com</item>
+        <item>vedsoni1996@gmail.com</item>
+        <item>_</item>
+        <item>_</item>
+        <item>aishwaryakulkarni151995@gmail.com</item>
+        <item>bhattgarvit95@gmail.com</item>
+        <item>suyashthakare4@gmail.com</item>
+        <item>_</item>
+        <item>performingarts@spacethefest.org</item>
+        <item>sumitpawar300@gmail.com</item>
+        <item>stg.4040@gmail.com </item>
+        <item>parthshroff1105@gmail.com</item>
+        <item>_</item>
+        <item>trisha.surve@gmail.com</item>
+        <item>yashkothari777@gmail.com</item>
+        <item>spaceopen2015@gmail.com</item>
+        <item>maradiyaj@gmail.com</item>
+        <item>teamtalaash@gmail.com</item>
+        <item>smriti.geminirocks@gmail.com</item>
+        <item>workshops@spacethefest.org</item>
+		<item>informals@spacethefest.org</item>
+		<item>innovation@spacethefest.org</item>
+		<item>innovation@spacethefest.org</item>
+    </string-array>
+
+
+    <string-array name="event_date">
+
+        <item>28th February and 1st March</item>
+        <item>27th, 28th February and 1st March</item>
+        <item>28th February</item>
+        <item>1st March</item>
+        <item>28th February and 1st March</item>
+        <item>27th and 28th February</item>
+        	<item>
+			28th February : Eliminations
+			1st March : Finals
+		</item>
+        <item>1st March</item>
+        <item>28th February and 1st March</item>
+        <item>27th,28th February and 1st March</item>
+        <item>28th February and 1st March</item>
+        <item>27th February</item>
+        <item>27th,28th February and 1st March</item>
+        <item>27th,28th February and 1st March</item>
+        <item>27th February</item>
+        <item>26th,28th February and 1st March</item>
+        <item>27th February</item>
+        <item>27th and 28th February</item>
+        <item>27th,28th February and 1st March</item>
+        <item>27th,28th February and 1st March</item>
+        <item>28th February</item>
+        <item>15th or 17th February</item>
+        <item>27th,28th February and 1st March</item>
+        <item>1st March</item>
+        <item>27th and 28th February</item>
+        <item>28th February</item>
+        <item>27th,28th February and 1st March</item>
+        <item>27th February</item>
+        <item>27th,28th February and 1st March</item>
+        <item>1st March</item>
+        <item>27th February</item>
+        <item>26th February</item>
+        <item>27th,28th February and 1st March</item>
+        <item>27th,28th February and 1st March</item>
+        <item>27th,28th February and 1st March</item>
+        <item>27th,28th February and 1st March</item>
+        <item>28th February and 1st March</item>
+        <item>27th,28th February and 1st March</item>
+        <item>27th,28th February and 1st March</item>
+        <item>27th February</item>
+        <item>27th February</item>
+		<item>1st March</item>
+		<item>Screening : 28th February</item>
+		<item>24th February</item>
+
+
+    </string-array>
+
+
+    <string-array name="event_image_id">
+        <item>@drawable/box_cricket</item>
+        <item>@drawable/amazing_roller</item>
+        <item>@drawable/debate</item>
+        <item>@drawable/beatbox</item>
+        <item>@drawable/frisbee</item>
+        <item>@drawable/antichess</item>
+        <item>@drawable/quiz</item>
+        <item>@drawable/dance_ovation</item>
+        <item>@drawable/lagori</item>
+        <item>@drawable/bazinga1</item>
+        <item>@drawable/mun</item>
+        <item>@drawable/high_octane</item>
+        <item>@drawable/lan_gaming</item>
+        <item>@drawable/casino</item>
+        <item>@drawable/instrumental_wars</item>
+        <item>@drawable/rink</item>
+        <item>@drawable/find_the_way</item>
+        <item>@drawable/mrmsspace</item>
+        <item>@drawable/sumo_mania</item>
+        <item>@drawable/hogathon</item>
+        <item>@drawable/nukkad</item>
+        <item>@drawable/amazing_race</item>
+        <item>@drawable/hogwarts</item>
+        <item>@drawable/rangmanch</item>
+        <item>@drawable/karoake</item>
+        <item>@drawable/streetdance</item>
+        <item>@drawable/laser_maze</item>
+        <item>@drawable/swaranjali</item>
+        <item>@drawable/lost_in_space</item>
+        <item>@drawable/visual_impact</item>
+        <item>@drawable/minutetowinit</item>
+        <item>@drawable/war</item>
+        <item>@drawable/neon</item>
+        <item>@drawable/pool</item>
+        <item>@drawable/quadra_twist</item>
+        <item>@drawable/slow_cycling</item>
+        <item>@drawable/sp_open</item>
+        <item>@drawable/sherlock</item>
+        <item>@drawable/talaash</item>
+        <item>@drawable/elemental_quest</item>
+        <item>@drawable/bboying</item>
+		<item>@drawable/djwars</item>
+		<item>@drawable/film</item>
+		<item>@drawable/wallp</item>
+    </string-array>
+
+
+    <string-array name="event_name">
+        <item>Box Cricket</item>
+        <item>A-Maze-ing Rollers</item>
+        <item>Panel Debate</item>
+        <item>BeatBox</item>
+        <item>Frisbee</item>
+        <item>Antichess</item>
+        <item>exQUIZit</item>
+        <item>Dance Ovation</item>
+        <item>Lagori</item>
+        <item>Carnival Bazinga</item>
+        <item>SP MUN</item>
+        <item>High Octane</item>
+        <item>LAN Gaming</item>
+        <item>Casino</item>
+        <item>Instrumental War</item>
+        <item>Rink Football</item>
+        <item>Find The Way</item>
+        <item>Mr. and Ms. Space</item>
+        <item>Sumo Mania</item>
+        <item>Hogathon</item>
+        <item>Nukkad</item>
+        <item>Amazing Race</item>
+        <item>Hogwarts Express</item>
+        <item>Rangmanch</item>
+        <item>Karaoke</item>
+        <item>Street Dance</item>
+        <item>Laser Maze</item>
+        <item>Swaranjali</item>
+        <item>Lost In Space</item>
+        <item>Visual Impact</item>
+        <item>Minute To Win It</item>
+        <item>War Of Branches</item>
+        <item>Neon Room</item>
+        <item>Pool Table</item>
+        <item>Quadra Twist</item>
+        <item>Slow Cycling</item>
+        <item>Space Open 2015</item>
+        <item>SP Sherlock</item>
+        <item>Talaash</item>
+        <item>The Elemental Quest</item>
+        <item>B-Boying Workshop</item>
+		<item>War of DJs</item>
+		<item>Short Film Making</item>
+		<item>Wall Painting</item>
+
+    </string-array>
+
+
+    <string-array name="event_time">
+        <item>9AM Onwards</item>
+        	<item>
+			27th and 28th February:10.30AM-5.00PM
+			1st March:10.30AM-1.00PM
+			Bonus round on 1st March:2.30PM
+		</item>
+        <item>10AM-5PM</item>
+        <item>1PM-2PM</item>
+        <item>10AM-4PM</item>
+        <item>10AM-5PM</item>
+        <item>2PM Onwards</item>
+        <item>10AM-1PM</item>
+        <item>10AM-4PM</item>
+        <item>10.30AM-6PM</item>
+        <item>9AM-5PM</item>
+        <item>5PM Onwards</item>
+        <item>11AM-5PM</item>
+        <item>11AM-6PM</item>
+        <item>2PM-4PM</item>
+        <item>9AM-5PM</item>
+        <item>10AM-3PM</item>
+        	<item>
+			27th February:12PM-2PM
+			28th February:12PM-1.30PM
+		</item>
+        <item>9AM-6PM</item>
+        <item>12PM-4PM</item>
+        <item>10AM-12.30PM</item>
+        <item>11AM-6PM</item>
+        <item>10AM-5PM</item>
+        <item>2PM-4PM</item>
+        <item>10AM-3PM</item>
+        <item>2PM-4PM</item>
+        <item>9AM-5PM</item>
+        <item>10AM-12PM</item>
+        <item>During the day</item>
+        <item>6PM Onwards</item>
+        <item>During the day</item>
+        <item>7.30PM-10PM</item>
+        <item>9.30AM-5PM</item>
+        <item>9AM-9PM</item>
+        <item>10AM Onwards</item>
+        <item>11AM-6PM</item>
+        <item>9AM-5PM</item>
+        <item>9.30AM-5PM</item>
+        <item>2PM Onwards</item>
+        <item>11AM Onwards</item>
+        <item>1PM-5PM</item>
+		<item>4PM-6PM</item>
+		<item>12PM-2PM</item>
+		<item>4PM Onwards</item>
+    </string-array>
+
+    <!-- Actions -->
+    <array name="actions_icons">
+        <item>@drawable/pa</item>
+        <item>@drawable/la</item>
+        <item>@drawable/informals1</item>
+        <item>@drawable/gas</item>
+        <item>@drawable/innovations</item>
+        <item>@drawable/workshops</item>
+        <item>@drawable/favourite</item>
+    </array>
+
+    <string-array name="actions_names">
+        <item>Performing Arts</item>
+        <item>Literary Arts</item>
+        <item>Informals </item>
+        <item>Games And Sports</item>
+        <item>Innovations</item>
+        <item>Workshops</item>
+        <item>Favourites</item>
+
+    </string-array>
+    <string-array name="actions_links">
+        <item>category://pa</item>
+        <item>category://la</item>
+        <item>category://inf</item>
+        <item>category://gas</item>
+        <item>category://inno</item>
+        <item>category://work</item>
+        <item>category://fav</item>
+    </string-array>
+
+    <!-- Settings arrays -->
+    <string-array name="spacing_types">
+        <item>Right Offset (RO)</item>
+        <item>Actions Width (AW)</item>
+    </string-array>
+    <string-array name="spacing_types_short">
+        <item>RO</item>
+        <item>AW</item>
+    </string-array>
+
+    <integer-array name="spacing_types_values">
+        <item>0</item>
+        <item>1</item>
+    </integer-array>
+
+    <string-array name="width_strings">
+        <item>0</item>
+        <item>8</item>
+        <item>16</item>
+        <item>24</item>
+        <item>32</item>
+        <item>48</item>
+        <item>64</item>
+        <item>96</item>
+        <item>128</item>
+    </string-array>
+
+    <integer-array name="width_values">
+        <item>0</item>
+        <item>8</item>
+        <item>16</item>
+        <item>24</item>
+        <item>32</item>
+        <item>48</item>
+        <item>64</item>
+        <item>96</item>
+        <item>128</item>
+    </integer-array>
+
+    <string-array name="fade_types">
+        <item>None</item>
+        <item>Actions</item>
+        <item>Content</item>
+        <item>Both</item>
+    </string-array>
+
+    <integer-array name="fade_types_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </integer-array>
+
+    <string-array name="fade_max_value_strings">
+        <item>0</item>
+        <item>64</item>
+        <item>128</item>
+        <item>170</item>
+        <item>255</item>
+    </string-array>
+
+    <integer-array name="fade_max_value_values">
+        <item>0</item>
+        <item>64</item>
+        <item>128</item>
+        <item>170</item>
+        <item>255</item>
+    </integer-array>
+
+    <string-array name="swiping_types">
+        <item>All</item>
+        <item>Edge</item>
+    </string-array>
+
+    <integer-array name="swiping_types_values">
+        <item>0</item>
+        <item>1</item>
+    </integer-array>
+
+    <string-array name="fling_duration_strings">
+        <item>0</item>
+        <item>900</item>
+        <item>1500</item>
+        <item>3000</item>
+    </string-array>
+
+    <integer-array name="fling_duration_values">
+        <item>0</item>
+        <item>900</item>
+        <item>1500</item>
+        <item>3000</item>
+    </integer-array>
+</resources>
